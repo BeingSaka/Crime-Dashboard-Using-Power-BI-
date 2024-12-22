@@ -9,3 +9,7 @@ This project develops an interactive Crime Dashboard in Power BI to visualize cr
 	* Filter and Drill-Down: Use filters to drill down into specific data points such as country, crime type, or resolution status.
 	* Insights and Recommendations: Leverage insights to support data-driven decisions for improved public safety and resource allocation.
 	* Customizable Dashboards: Tailor dashboards to meet the specific needs of law enforcement and decision-makers.
+
+**To Use:**
+- <a href ="https://github.com/BeingSaka/Crime-Dashboard-Using-Power-BI-/blob/main/Crimes%20Data.xlsx" > Crime Dataset </a>
+- <a href ="https://github.com/BeingSaka/Crime-Dashboard-Using-Power-BI-/blob/main/Other%20Data.xlsx" > Other Data </a>
